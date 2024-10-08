@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my GitHub Profile! I'm Keios Starqua (Vietnamese name : Tạ Quang Khôi)
+### Hi there 👋 Welcome to my GitHub Profile! I'm Keios Starqua (Vietnamese name : Đỗ Khắc Dương)
 <!-- Trang Ái Như -->
 <h1 align="center"> 🔭 I graduated in Front-End Development from Hai Phong University! 👋 </h1>
 
@@ -27,8 +27,8 @@
 	<!-- JavaScript -->
 	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 	&emsp;
-	<!-- Java -->
-	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+	<!-- TypeScript -->
+	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 	&emsp;
 	<!-- PHP 
 	<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
@@ -38,9 +38,6 @@
 	  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 	</a>
 	&emsp;
-	<!-- C
-	<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-	-->
 	<!-- C++ 
 	<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 	&emsp;
@@ -48,9 +45,7 @@
 	<!-- C Sharp -->
 	<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 	&emsp;
-	<!-- Groovy -->
-	<img src="https://groovy-lang.org/img/xfavicon.ico.pagespeed.ic.96ap4i0o5w.webp"/>
-	&emsp;
+	
 </p>
 
 ## Frontend Development
@@ -67,16 +62,19 @@
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   &emsp;
   -->
-  <!-- Angular 
-  <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   &emsp;
-  -->
+  
+ <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+  &emsp;
+  
   <!-- React -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   &emsp;
-  <!-- WordPress
+<!--   WordPress -->
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
-  -->
+ 
 </p>
 
 <!--
