@@ -1,8 +1,8 @@
 ### Hi there 👋 Welcome to my GitHub Profile! I'm Keios Starqua (Vietnamese name : Tạ Quang Khôi)
-<!-- Nguyễn Nhật Kiều Trâm -->
-<h1 align="center"> 🔭 I graduated in Mobile and Game Development from Ba Ria Vung Tau University! 👋 </h1>
+<!-- Trang Ái Như -->
+<h1 align="center"> 🔭 I graduated in Front-End Development from Hai Phong University! 👋 </h1>
 
-<!-- count from Mar 21, 2022 -->
+
 <div align = "center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=taquangkhoi)
@@ -15,11 +15,8 @@
 - 📝 I'm using RemNote for learning and I'm also a moderator of RemNote Community (check it out at [remnote.com](https://www.remnote.com/))
 - 😄 Pronouns: He/Him
 - 👨‍💻 I'm developing
-  - [TwoDB](https://github.com/TaQuangKhoi/twodb) - A Tool to migrate data from one database another database of the same software
-  - [Magic Tower Defense](https://www.roblox.com/games/18620016758/City-Tower-Defense) - A Roblox game - with Tạ Huy Khắc (Tyrano) and Nguyễn Thạch Phong (Bryan) 
-- 🫂 I'm contributing
-  - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler)
-- Buy me a Coffee : [https://ko-fi.com/taquangkhoi](https://ko-fi.com/taquangkhoi)
+  - [TwoDB](https://github.com/dokhacduong1/twodb](https://github.com/dokhacduong1/GNOUD-E_COMMERCE) - Grocery website
+- Contact : (https://www.facebook.com/Kushinh1/)
 
 # 🥰 My Skill
 
