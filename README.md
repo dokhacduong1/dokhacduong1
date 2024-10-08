@@ -15,7 +15,7 @@
 - 📝 I'm using RemNote for learning and I'm also a moderator of RemNote Community (check it out at [remnote.com](https://www.remnote.com/))
 - 😄 Pronouns: He/Him
 - 👨‍💻 I'm developing
-  - [Web](https://github.com/dokhacduong1/twodb](https://github.com/dokhacduong1/GNOUD-E_COMMERCE) - Grocery website
+  - [Web](https://github.com/dokhacduong1/GNOUD-E_COMMERCE) - Grocery website
 - Contact : (https://www.facebook.com/Kushinh1/)
 
 # 🥰 My Skill
