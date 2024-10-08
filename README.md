@@ -15,7 +15,7 @@
 - 📝 I'm using RemNote for learning and I'm also a moderator of RemNote Community (check it out at [remnote.com](https://www.remnote.com/))
 - 😄 Pronouns: He/Him
 - 👨‍💻 I'm developing
-  - [TwoDB](https://github.com/dokhacduong1/twodb](https://github.com/dokhacduong1/GNOUD-E_COMMERCE) - Grocery website
+  - [Web](https://github.com/dokhacduong1/twodb](https://github.com/dokhacduong1/GNOUD-E_COMMERCE) - Grocery website
 - Contact : (https://www.facebook.com/Kushinh1/)
 
 # 🥰 My Skill
@@ -93,12 +93,6 @@
 </p>
 -->
 
-## Mobile Development
-
-<p align="left"> 
-  &emsp; 
-	<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
 
 <!--
 ## Databases
@@ -127,22 +121,22 @@ Here are some ideas to get you started:
 
 # 🪴 Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaQuangKhoi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dokhacduong1)](https://github.com/anuraghazra/github-readme-stats)
 
-![Contribution Graph Đỗ Quyên](https://github-readme-activity-graph.vercel.app/graph?username=taquangkhoi&theme=github-compact&days=30)
+![Contribution Graph Đỗ Quyên](https://github-readme-activity-graph.vercel.app/graph?username=dokhacduong1&theme=github-compact&days=30)
 
 <!--
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taquangkhoi&show_icons=true&locale=en&line_height=20&title_color=f69673"
-     alt="taquangkhoi-top-langs"
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dokhacduong1&show_icons=true&locale=en&line_height=20&title_color=f69673"
+     alt="dokhacduong1-top-langs"
 />
 </div>
 
 <img width="400"
      height="200"
-     src="https://github-readme-stats.vercel.app/api?username=taquangkhoi&show_icons=true&hide_border=false&line_height=25&title_color=f69673&icon_color=e2a7a2&show_owner=true"
-     alt="taquangkhoi-github-stats"
+     src="https://github-readme-stats.vercel.app/api?username=dokhacduong1&show_icons=true&hide_border=false&line_height=25&title_color=f69673&icon_color=e2a7a2&show_owner=true"
+     alt="dokhacduong1-github-stats"
 />
 
 <br> -->
