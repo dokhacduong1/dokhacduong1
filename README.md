@@ -48,7 +48,7 @@ I'm **Kushinhp** (Vietnamese name: **Đỗ Khắc Dương**)
 # 📊 GitHub Stats
 
 <!-- Stats card -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dokhacduong1&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dokhacduong1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Top languages card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokhacduong1&layout=compact&theme=default)
