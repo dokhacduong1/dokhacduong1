@@ -1,9 +1,9 @@
 ### Hi there 👋 Welcome to my GitHub Profile!  
 I'm **Kushinhp** (Vietnamese name: **Đỗ Khắc Dương**)
 
-<h1 align="center"> 🔭 I graduated in Front-End Development👨‍🎓 </h1>
+<h1 align="left"> 🔭 I graduated in Front-End Development👨‍🎓 </h1>
 
-<div align="center">
+<div align="left">
   
 ![Profile views](https://komarev.com/ghpvc/?username=dokhacduong1&color=blueviolet)
 
