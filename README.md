@@ -13,7 +13,6 @@ I'm **Kushinhp** (Vietnamese name: **Đỗ Khắc Dương**)
 
 # 🤘 About Me
 
-- 🌱 Currently learning **Algorithm** with [Hello, Algo](https://www.hello-algo.com)  
 - 💼 Building: [GNOUD E-Commerce Website](https://github.com/dokhacduong1/GNOUD-E_COMMERCE) 🛒  
 - 📫 Contact me: [Facebook](https://www.facebook.com/Kushinh1/)  
 - 😄 Pronouns: **He/Him**  
