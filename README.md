@@ -93,7 +93,7 @@ const developer = {
 <td align="center" width="25%">
 
 **🎮 Gaming**  
-Strategy & RPG games
+RPG games
 
 </td>
 <td align="center" width="25%">
